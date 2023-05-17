@@ -1,0 +1,20 @@
+.links {
+    height: 200px;
+}
+
+.intro {
+    margin-top: 40px;
+    font-size: 2rem;
+}
+
+.form_input {
+    margin-top: 30px;
+}
+
+.input_value {
+    margin-left: 20px;
+}
+
+.submit_button {
+    margin-top: 50px;
+}
